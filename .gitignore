@@ -1,0 +1,45 @@
+# Build artifacts
+build/
+dist/
+*.pkg
+*.pyc
+__pycache__/
+
+# Large data files
+tesseract/tessdata/
+local_models/
+*.traineddata
+*.safetensors
+
+# System files
+.DS_Store
+Thumbs.db
+.env/
+.venv/
+env/
+venv/
+hazel-sky-450118-p6-0ffc677fdd97.json
+# Keep these files locally but not in the repository
+hazel-sky-450118-p6-0ffc677fdd97.json
+.env/
+.venv/
+env/
+venv/
+hazel-sky-450118-p6-0ffc677fdd97.json
+# Keep these files locally but not in the repository
+hazel-sky-450118-p6-0ffc677fdd97.json
+.env/
+.venv/
+env/
+venv/
+# Sensitive credentials
+hazel-sky-450118-p6-0ffc677fdd97.json
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+# Build artifacts
+__pycache__/
+*.pyc
+hazel-sky-450118-p6-0ffc677fdd97.json
