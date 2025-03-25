@@ -22,3 +22,6 @@ recordings/
 # IDE settings
 .vscode/
 .idea/
+# Credentials - DO NOT COMMIT
+hazel-sky-450118-p6-0ffc677fdd97.json
+config/hazel-sky-450118-p6-0ffc677fdd97.json
