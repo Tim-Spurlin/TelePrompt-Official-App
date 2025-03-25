@@ -11,3 +11,7 @@
 local_models/** filter=lfs diff=lfs merge=lfs -text
 tesseract/tessdata/** filter=lfs diff=lfs merge=lfs -text
 poppler/bin/** filter=lfs diff=lfs merge=lfs -text
+*.xml filter=lfs diff=lfs merge=lfs -text
+tesseract/** filter=lfs diff=lfs merge=lfs -text
+poppler/** filter=lfs diff=lfs merge=lfs -text
+voicemeeter_installer/** filter=lfs diff=lfs merge=lfs -text
